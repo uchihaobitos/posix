@@ -1,8 +1,6 @@
 # Pindah ke direktori Documents
 cd .\Documents
-
-# Membuat folder "Migrasi"
-mkdir "Migrasi"
+mkdir "Migrasi" -Wait
 cd .\Migrasi
 
 # Mengunduh dan menginstal Google Chrome
